@@ -236,4 +236,4 @@ This repository serves as the official landing page for Pencil. The software is 
 **Get the most recent version of Pencil today!**
 
 ---
-**Last updated:** 2026-09-20 22:58:02 UTC
+**Last updated:** 2026-09-21 00:56:37 UTC
